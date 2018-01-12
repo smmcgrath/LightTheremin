@@ -1,0 +1,2 @@
+# LightTheremin
+Building a Light Theremin musical instrument with the Arduino board.  A phototransistor is used to measure the amount of light reaching the instrument. This is used to estimate how close the musicians hand is to the instrument at a given moment. More specifically the variation of voltage is used to guage the distance. This is then mapped to a range of sound frequencies. A piezo buzzer is used to produce the sound.
